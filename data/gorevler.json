@@ -1,0 +1,30 @@
+[
+  {
+    "tamamlandiMi": true,
+    "aciklama": "kahve ic",
+    "tarih": "21.07.2025",
+    "sorumlu": "Atanmadı",
+    "oncelik": "Orta"
+  },
+  {
+    "tamamlandiMi": true,
+    "aciklama": "projeyi ilerlet",
+    "tarih": "21.07.2025",
+    "sorumlu": "Atanmadı",
+    "oncelik": "Orta"
+  },
+  {
+    "tamamlandiMi": false,
+    "aciklama": "projeyi tamamla",
+    "tarih": "21.07.2025",
+    "sorumlu": "Can",
+    "oncelik": "Yüksek"
+  },
+  {
+    "tamamlandiMi": false,
+    "aciklama": "görev deneme 1",
+    "tarih": "21.07.2025",
+    "sorumlu": "Can",
+    "oncelik": "Düşük"
+  }
+]
